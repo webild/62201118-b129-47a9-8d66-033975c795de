@@ -5,7 +5,7 @@ import MinimalAbout from '@/components/sections/layouts/about/MinimalAbout';
 import SimpleKPIBento from '@/components/bento/SimpleKPIBento';
 import SimpleStepsBento from '@/components/bento/SimpleStepsBento';
 import SimpleFooter from '@/components/sections/layouts/footer/SimpleFooter';
-import { ArrowButton } from '@/components/buttons/ArrowButton';
+import ArrowButton from '@/components/buttons/ArrowButton';
 
 const contactForm = () => {
   return (
